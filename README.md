@@ -1,2 +1,2 @@
 # caveball
-all encompassing repo for sports and sports analysis
+Repo for all things data science with specific emphasis on sports
